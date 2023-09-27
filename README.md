@@ -12,7 +12,7 @@
 ## Run
 ```
 pip3 install -r require.txt
-python app.py
+python spam.py
 ```
 ```
 Author: Thiệu Trung Kiên
