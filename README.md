@@ -2,7 +2,7 @@
 
 ## Cloning
 ```
-> git clone https://github.com/TrunqKj3n/TDS_Instagram_Python
+> git clone https://github.com/ttkienn/spam_cmt_Facebook
 > cd spam_cmt_Facebook
 > Sửa nội dung trong file spam.py
 ```
