@@ -119,7 +119,6 @@ print(
     "\033[1;97m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n"
 )
 comment_text = ["Thiệu Trung Kiên", "TTK Dz VKL"]
-action = FB(cookies)
 with open(f"emoji.json", "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 threads = []
